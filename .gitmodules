@@ -760,7 +760,7 @@
 	branch = .
 [submodule "more"]
 	path = more
-	url = ../more.git
+	url = https://github.com/boostorg/more.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "leaf"]
@@ -831,3 +831,129 @@
 [submodule "libs/program_options"]
 	path = libs/program_options
 	url = https://github.com/boostorg/program_options.git
+[submodule "tools/bcp"]
+	path = tools/bcp
+	url = https://github.com/boostorg/bcp.git
+[submodule "tools/boost_install"]
+	path = tools/boost_install
+	url = https://github.com/boostorg/boost_install.git
+[submodule "tools/boostbook"]
+	path = tools/boostbook
+	url = https://github.com/boostorg/boostbook.git
+[submodule "tools/boostdep"]
+	path = tools/boostdep
+	url = https://github.com/boostorg/boostdep.git
+[submodule "tools/build"]
+	path = tools/build
+	url = https://github.com/boostorg/build.git
+[submodule "tools/check_build"]
+	path = tools/check_build
+	url = https://github.com/boostorg/check_build.git
+[submodule "tools/cmake"]
+	path = tools/cmake
+	url = https://github.com/boostorg/cmake.git
+[submodule "tools/docca"]
+	path = tools/docca
+	url = https://github.com/boostorg/docca.git
+[submodule "tools/inspect"]
+	path = tools/inspect
+	url = https://github.com/boostorg/inspect.git
+[submodule "tools/litre"]
+	path = tools/litre
+	url = https://github.com/boostorg/litre.git
+[submodule "tools/quickbook"]
+	path = tools/quickbook
+	url = https://github.com/boostorg/quickbook.git
+[submodule "tools/auto_index"]
+	path = tools/auto_index
+	url = https://github.com/boostorg/auto_index.git
+[submodule "libs/any"]
+	path = libs/any
+	url = https://github.com/boostorg/any.git
+[submodule "libs/config"]
+	path = libs/config
+	url = https://github.com/boostorg/config.git
+[submodule "libs/throw_exception"]
+	path = libs/throw_exception
+	url = https://github.com/boostorg/throw_exception.git
+[submodule "libs/type_index"]
+	path = libs/type_index
+	url = https://github.com/boostorg/type_index.git
+[submodule "libs/core"]
+	path = libs/core
+	url = https://github.com/boostorg/core.git
+[submodule "libs/assert"]
+	path = libs/assert
+	url = https://github.com/boostorg/assert.git
+[submodule "libs/static_assert"]
+	path = libs/static_assert
+	url = https://github.com/boostorg/static_assert.git
+[submodule "libs/detail"]
+	path = libs/detail
+	url = https://github.com/boostorg/detail.git
+[submodule "libs/container_hash"]
+	path = libs/container_hash
+	url = https://github.com/boostorg/container_hash.git
+[submodule "libs/function"]
+	path = libs/function
+	url = https://github.com/boostorg/function.git
+[submodule "libs/describe"]
+	path = libs/describe
+	url = https://github.com/boostorg/describe.git
+[submodule "libs/iterator"]
+	path = libs/iterator
+	url = https://github.com/boostorg/iterator.git
+[submodule "libs/bind"]
+	path = libs/bind
+	url = https://github.com/boostorg/bind.git
+[submodule "libs/mp11"]
+	path = libs/mp11
+	url = https://github.com/boostorg/mp11.git
+[submodule "libs/preprocessor"]
+	path = libs/preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+[submodule "libs/type_traits"]
+	path = libs/type_traits
+	url = https://github.com/boostorg/type_traits.git
+[submodule "libs/concept_check"]
+	path = libs/concept_check
+	url = https://github.com/boostorg/concept_check.git
+[submodule "libs/function_types"]
+	path = libs/function_types
+	url = https://github.com/boostorg/function_types.git
+[submodule "libs/mpl"]
+	path = libs/mpl
+	url = https://github.com/boostorg/mpl.git
+[submodule "libs/fusion"]
+	path = libs/fusion
+	url = https://github.com/boostorg/fusion.git
+[submodule "libs/lexical_cast"]
+	path = libs/lexical_cast
+	url = https://github.com/boostorg/lexical_cast.git
+[submodule "libs/smart_ptr"]
+	path = libs/smart_ptr
+	url = https://github.com/boostorg/smart_ptr.git
+[submodule "libs/predef"]
+	path = libs/predef
+	url = https://github.com/boostorg/predef.git
+[submodule "libs/container"]
+	path = libs/container
+	url = https://github.com/boostorg/container.git
+[submodule "libs/tuple"]
+	path = libs/tuple
+	url = https://github.com/boostorg/tuple.git
+[submodule "libs/move"]
+	path = libs/move
+	url = https://github.com/boostorg/move.git
+[submodule "libs/tokenizer"]
+	path = libs/tokenizer
+	url = https://github.com/boostorg/tokenizer.git
+[submodule "libs/utility"]
+	path = libs/utility
+	url = https://github.com/boostorg/utility.git
+[submodule "libs/integer"]
+	path = libs/integer
+	url = https://github.com/boostorg/integer.git
+[submodule "libs/intrusive"]
+	path = libs/intrusive
+	url = https://github.com/boostorg/intrusive.git
