@@ -957,3 +957,15 @@
 [submodule "libs/intrusive"]
 	path = libs/intrusive
 	url = https://github.com/boostorg/intrusive.git
+[submodule "libs/optional"]
+	path = libs/optional
+	url = https://github.com/boostorg/optional.git
+[submodule "libs/typeof"]
+	path = libs/typeof
+	url = https://github.com/boostorg/typeof.git
+[submodule "libs/io"]
+	path = libs/io
+	url = https://github.com/boostorg/io.git
+[submodule "libs/functional"]
+	path = libs/functional
+	url = https://github.com/boostorg/functional.git
