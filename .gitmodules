@@ -969,3 +969,24 @@
 [submodule "libs/functional"]
 	path = libs/functional
 	url = https://github.com/boostorg/functional.git
+[submodule "libs/algorithm"]
+	path = libs/algorithm
+	url = https://github.com/boostorg/algorithm.git
+[submodule "libs/array"]
+	path = libs/array
+	url = https://github.com/boostorg/array.git
+[submodule "libs/exception"]
+	path = libs/exception
+	url = https://github.com/boostorg/exception.git
+[submodule "libs/range"]
+	path = libs/range
+	url = https://github.com/boostorg/range.git
+[submodule "libs/regex"]
+	path = libs/regex
+	url = https://github.com/boostorg/regex.git
+[submodule "libs/conversion"]
+	path = libs/conversion
+	url = https://github.com/boostorg/conversion.git
+[submodule "libs/unordered"]
+	path = libs/unordered
+	url = https://github.com/boostorg/unordered.git
